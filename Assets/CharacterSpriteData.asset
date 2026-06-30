@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af79f30bd36632843a17a7a58790d457, type: 3}
+  m_Name: CharacterSpriteData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterSpriteData
+  idle: {fileID: 21300000, guid: b8e78032f8af0954784d1fe9e5a09187, type: 3}
+  aim: {fileID: 21300000, guid: 8c89ed5746a4faa48bb97701cc2f2e35, type: 3}
+  damage: {fileID: 21300000, guid: 7789b657ea330f94d9b70d6d4a117aed, type: 3}
+  dead: {fileID: 21300000, guid: b26c1b2c24c056a43931e5b20d8d9193, type: 3}
